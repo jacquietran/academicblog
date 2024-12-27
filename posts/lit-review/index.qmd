@@ -1,0 +1,10 @@
+---
+title: "Lit review"
+author: "Jacquie Tran"
+date: "2011-04-25"
+categories:
+  - phd
+  - phd writing
+---
+
+> "This literature review is brought to you by mind maps, free writing and Rekorderlig."
