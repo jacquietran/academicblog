@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 56daa551-1c2f-4e0d-9bf9-514486ad1d04
+      url: 'https://fanciful-froyo-506c9d.netlify.app'
