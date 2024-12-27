@@ -1,0 +1,14 @@
+---
+title: "Overloaded"
+author: "Jacquie Tran"
+date: "2011-04-03"
+categories:
+  - phd
+  - time management
+---
+
+![A screenshot of a booked-up calendar filled with appointments](toomuch.png)
+
+My upcoming week. The cropped image shows my calendar for Mon–Fri, 6 AM–7:30 PM.
+
+**O SHIT.**
