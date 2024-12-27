@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hidden Labours",
+    "section": "",
+    "text": "To start: A confession\n\n\n\n\n\n\nbeginnings\n\n\nPhD\n\n\n\n\n\n\n\n\n\nJul 2, 2011\n\n\nJacquie Tran\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/to-start-a-confession/index.html",
+    "href": "posts/to-start-a-confession/index.html",
+    "title": "To start: A confession",
+    "section": "",
+    "text": "I’ve already past the six-month mark of my PhD and have been blogging about it all this time, over at my Tumblr. (It feels a little dirty to link to my Tumblog in the first sentence of my first WordPress post!)\nYou’re probably wondering, “After six months of PhD blogging, why the change of format?”\nIt’s more or less about separating out things according to my thoughts about what is Tumblr-friendly and what is WordPress-friendly. Though I have strayed from the model many times, I still think of my Tumblr as a place to capture snapshots: in photos, videos, songs; of short quotes and emotional responses “in the moment”. I like how the format encourages content generation straight from one’s stream of consciousness, and discourages long posts (read: posts with more than one paragraph). Both of these things are good for me; I am inclined to overthinking and rambling. On the other hand, the more I blog about my life as a PhD student, the more I find that certain pieces don’t quite fit the Tumblr mould.\nGiven the test run over the last six months, I’ve decided to launch this blog, where I will be posting more considered posts about my PhD experience. I’ll still be posting about the PhD on Tumblr, but you should know upfront that I can be highly personal, emotional and impassioned over there (often all at once). Also, as it is my personal blog, there’s plenty on there that is irrelevant to my academic pursuits. You have been forewarned 😉"
+  }
+]
