@@ -4,7 +4,7 @@ author: "Jacquie Tran"
 date: "2011-07-02"
 categories:
   - beginnings
-  - PhD
+  - phd
 ---
 
 I've already past the six-month mark of my PhD and have been blogging about it all this time, over at my [Tumblr](http://jaccccc.tumblr.com/tagged/phd). (It feels a little dirty to link to my Tumblog in the first sentence of my first WordPress post!)
