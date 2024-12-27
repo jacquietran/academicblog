@@ -1,0 +1,14 @@
+---
+title: "getting set up"
+author: "Jacquie Tran"
+date: "2011-02-09"
+categories:
+  - phd
+---
+
+it's such a shame i haven't been out of the house yet, because:
+
+- it's a beautiful day outside…mid-20s, blue skies. mint.
+- my hair looks great today
+
+reason why i haven't been outside: setting up a web server and personal wiki for my phd. technology...gah! * shakes fist *

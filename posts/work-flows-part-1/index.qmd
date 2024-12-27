@@ -1,0 +1,32 @@
+---
+title: "Work flows, part 1: My guiding concepts"
+author: "Jacquie Tran"
+date: "2011-07-06"
+categories:
+  - productivity
+  - workflow
+draft: true
+---
+
+*This is the first post in a series on how I work.  I’ll be covering a range of topics including the principles that guide me in my approach to PhD work, how I stay organised and focused, the tools I use to collate and interpret literature and other content, my "product creation" process and things that help me stay sane!  Feedback is always welcome: comment below this post, ~~find me on Twitter or~~ send me an email: jac [AT] jacquietran [DOT] com.*
+
+When I first wrote about how I work (here and here), I took a stream of consciousness approach.  It was about getting the thoughts down, documenting my work quickly enough to publish the posts before my working habits changed.  Looking back, there are several key threads that underpin each decision I’ve made in establishing the way I currently work.  I call these guiding concepts, though I guess you could think of it as part of some sort of work philosophy.  I’ve never thought to really nail it down because it is always being refined and modified as I learn more about others, my environment and myself.  I consider these guiding concepts a snapshot of what is most important to my work right now.
+Perfect versus done
+
+It’s a funny thing to think about the common characteristics within a cohort of postgraduate students.  Typically, it is a group full of overachievers with wide eyes and high hopes.  It is only natural that the students within this group will have a number of traits and behaviours developed only through consistent achievement.  These might include pride in one’s work, or a capacity to be self-motivated, or to perfectly juggle multiple commitments, or to expect more from themselves than others.  But of course, there’s a “dark side” to these traits.  The kind of dark side that manifests from your talents, but actually blocks you from doing your best work.
+
+My “dark side”?  I have a long history of perfectionist tendencies.  I say “tendencies” rather than just calling myself a perfectionist outright because I’m pretty sure the Honours year beat the true perfectionist right out of me 😉  The difference now is that I know well enough to be mindful when walking that fine line between attention-to-detail (good egg) and striving for perfect (bad egg).
+
+I am constantly reminding myself to “get to done” as my first priority.  This forces me to ask the one questions I used to consider the sign of a lazy or overcommitted person.  What is the bare minimum needed to call this task DONE?  Or phrased in another way: What is good enough?  At first, I worried that these questions would decrease the quality of my work and lead me to churn out volumes of sub-standard efforts.  But I am starting to realise that my personal expectations will not let that happen.  I am (slowly) letting go of perfect and embracing done.
+Absorb to create
+
+Creative endeavours have always been a huge part of my life.  One of the constant battles I have within myself is the marriage of my experiences as a scientist and as a creative.  Both pursuits have taught me so much over the years, but I have had difficulty translating one particular lesson from my musical life into my academic life.  I have only ever become better as a musician by actively absorbing others’ music.  I would never have picked up a guitar if I hadn’t felt inspired by fellow schoolmates to do so.  I would never have continued learning piano past 14, the age at which my parents stopped forcing strongly encouraging me to press on, if I had never discovered popular jazz.  I would never have attempted to write music if I hadn’t been been moved by songwriters performing highly personal works of their own.
+
+The lesson remains and repeats itself many times over.  If I am to create, I need to dedicate time to absorbing content.  The trouble is that I can be a bit of a contradiction as a PhD student.  I enjoy the creating and the doing, the active parts of research in sport science.  But setting me a stack of journal articles to read just sends me running in the other direction.  Alas, it is an inevitable part of the process, so when I feel unenthused about reading research papers, I try to remind myself to commit to absorbing so I can create my best work.
+Commit to the system, be prepared to change
+
+Speaking of commitment, it really is the key to making it all stick.  I am an early adopter and find myself attracted to shiny new toys all the time.    Despite all the potential uses of the latest software, app, or tool, I have to weigh up whether the system I’m already using is fulfilling its purpose just fine.  More often than not, my system holds up; there are times when I think that a process could be slightly easier, or an interface could be prettier.  But despite flaws in the system, my commitment to it has made it effective for my work thus far.  Or often, the new tool is an improvement on my current system, but it requires me to learn new ways of working.  This in itself is not a bad thing, but it can consume time that might be better spent on actually doing work 🙂
+
+Having said that, I try not to hold onto my system or its components too tightly.  After all, it it just a set of tools.  I always keep an eye out for tools that could transform my system again to support me in my quest to do Great Work.  Commitment to a system makes it work, but the rate of technological development is such that there is something better around the corner.  Those that hold on too tightly to what used to work are the ones who get left behind.
+
+What are the concepts that guide your approach to work?

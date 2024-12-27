@@ -2,7 +2,17 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/to-start-a-confession/index.html"
+      "/posts/to-start-a-confession/index.html",
+      "/posts/establishing-my-workflow/index.html",
+      "/posts/personal-wiki-setup/index.html",
+      "/posts/recapping-the-first-two-months/index.html",
+      "/posts/personal-wiki/index.html",
+      "/posts/hello-goodbye-jan-2011/index.html",
+      "/posts/currently-reading-jan-2011/index.html",
+      "/posts/distraction/index.html",
+      "/posts/330-itis/index.html",
+      "/posts/it-starts-tomorrow/index.html",
+      "/posts/it-begins/index.html"
     ]
   }
 ]

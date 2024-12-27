@@ -1,0 +1,10 @@
+---
+title: "personal wiki"
+author: "Jacquie Tran"
+date: "2011-02-08"
+categories:
+  - phd
+  - phd writing
+---
+
+Has anyone ever set up a personal wiki before? I am doing a bit of reading about it online, and it sounds like just the ticket for organising my PhD writing. Get in touch if you have some experience/can help me learn more! :)

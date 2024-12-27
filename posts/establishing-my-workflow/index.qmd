@@ -1,0 +1,14 @@
+---
+title: "Establishing my workflow"
+author: "Jacquie Tran"
+date: "2011-02-09"
+categories:
+  - phd
+  - workflow
+---
+
+In these early days of my PhD, I have already gained a strong sense that I need to stay on top of information management by developing the appropriate workflow systems that will support my progress and learning over a period of years. The system needs to be flexible enough to meet the major components of the PhD (project management, databasing and data analysis, and written submissions). At the same time, it needs to be robust enough to stand up to the various demands of developing "good research". That is to say, research that responds to, integrates with and ultimately contributes to the ever-changing, ever-growing body of knowledge; "standing on the shoulders of giants".
+
+To this end, I am pretty proud of my handiwork today. I spent the day setting up a web server and establishing a personal wiki to house my steadily growing database of notes that will be used to support writing projects throughout my PhD (e.g., literature reviews, research proposals, the thesis...). As I become more familiar with the literature, I can easily edit my wiki to reflect what I've read and learnt. Given its hierarchical structure, this "knowledge bank" will become increasingly useful as I approach major writing tasks. At a glance, it's all about structure, which is a fantastic starting point for any piece of academic report writing. From there, I can follow "threads" by doing what I call "wiki-clicking": beginning on a given topic, and clicking links on that page to a related document to broaden my knowledge of the underpinning and/or relevant areas to the original topic.
+
+The workflow systems are still in development, which is to be expected as a newbie postgrad student. But establishing this wiki feels like important progress that will support the management of 3+ years of knowledge building.
