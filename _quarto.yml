@@ -3,6 +3,10 @@ project:
 
 website:
   title: "Hidden Labours | An archive of old blog posts from my PhD+ times"
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
   
 format:
   html:
