@@ -8,6 +8,7 @@ format:
   html:
     theme: lux
     css: styles.css
+    highlight-style: github
 
 editor: source
 
