@@ -1,0 +1,11 @@
+---
+title: "So accurate."
+author: "Jacquie Tran"
+date: "2011-05-29"
+categories:
+  - phd
+  - research
+  - academia
+---
+
+[![Comic strip from PhDComics.com](phd060210s.gif)](https://phdcomics.com/comics/archive.php?comicid=1325)
