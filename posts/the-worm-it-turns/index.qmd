@@ -1,0 +1,12 @@
+---
+title: "The worm, it turns"
+author: "Jacquie Tran"
+date: "2011-05-04"
+categories:
+  - phd
+  - phd writing
+---
+
+![A line chart showing uneven but continued progress towards a word count goal of 10,000](moar_progress.png)
+
+Nine working days left until submission of my completed first draft to my supervisors. I hope to sprint past 10k by Monday of next week, then edit edit edit :)

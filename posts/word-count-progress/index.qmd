@@ -1,0 +1,14 @@
+---
+title: "Word count progress"
+author: "Jacquie Tran"
+date: "2011-04-26"
+categories:
+  - phd
+  - phd writing
+---
+
+![A line chart showing word counts increasing day by day.](progress_chart.png)
+
+Because I’m a massive nerd.
+
+Here’s a graph showing my progress thus far towards my writing goal. Blue line is the “words added today” graph, while the green line is the cumulative word total :) Yay data!
