@@ -1,0 +1,13 @@
+---
+title: "Self-cite"
+author: "Jacquie Tran"
+date: "2011-06-12"
+categories:
+  - phd
+  - citations
+  - phd writing
+---
+
+First official self-cite. I mean, this is an "in-house" document, in that I am not writing explicitly for publication but for a university assessment, but it still counts to me!
+
+Credit where credit is due? ;)

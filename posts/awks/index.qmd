@@ -1,0 +1,10 @@
+---
+title: "Awks"
+author: "Jacquie Tran"
+date: "2011-06-15"
+categories:
+  - phd
+  - phd writing
+---
+
+> "That awkward moment when your literature review is about 70% done and you already have 190 references."

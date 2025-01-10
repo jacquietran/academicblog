@@ -1,5 +1,5 @@
 ---
-title: "Work flows, part 1: My guiding concepts"
+title: "Work flow thoughts, re-organised: My guiding concepts"
 author: "Jacquie Tran"
 date: "2011-07-06"
 categories:
